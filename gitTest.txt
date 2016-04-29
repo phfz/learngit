@@ -1,0 +1,2 @@
+Git is a better than svn.
+Git is free software.
